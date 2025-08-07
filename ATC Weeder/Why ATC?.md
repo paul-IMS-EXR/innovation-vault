@@ -1,0 +1,3 @@
+- Growing tendency towards preferring organic products by the consumers,
+- New laws and regulations,
+- Counter herbicide resistance developed by weeds: "a weed cannot develop resistance to a blade."
