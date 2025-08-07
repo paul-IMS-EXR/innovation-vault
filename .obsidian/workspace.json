@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b0a588c6f6ab8c",
+        "id": "acdd002103920584",
         "type": "tabs",
         "children": [
           {
-            "id": "bd09b1d2ee2d865b",
+            "id": "e6df30d91270ec08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "ATC Weeder/Notes on Literature Review.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "c54168cde52c259f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repository of Research Labs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Repository of Research Labs"
+              "title": "Notes on Literature Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54168cde52c259f",
+  "active": "e6df30d91270ec08",
   "lastOpenFiles": [
+    "ATC Weeder/Notes on Literature Review.md",
+    "ATC Weeder",
     "Welcome.md",
     "Repository of Research Labs.md"
   ]
