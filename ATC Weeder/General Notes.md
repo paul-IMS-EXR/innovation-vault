@@ -1,0 +1,4 @@
+- **Chemical herbicides** still appear to be the **most efficient solution, in terms of killing weeds.** However, this efficiency may decrease over time as weeds gradually become resistant to these products.
+- **Mechanical approaches** appear to be the **least energy-consuming.** However, they are surely **not the most efficient in killing weeds.** An important shortcoming of these approaches is that they negatively impact the soil on the long term.
+- **Thermal solutions** such hot water, hot foam and fire have a very important shortcoming: they **require a lot of energy.** Moreover, their **efficacy in killing weeds is highly debated** and not at all confirmed. In the case of fire-based solutions, security becomes an important issue particularly in certain environmental conditions (dry plants, etc.) and for the case of autonomous unsupervised machines.
+- 
