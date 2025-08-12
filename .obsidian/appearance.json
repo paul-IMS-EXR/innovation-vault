@@ -1,5 +1,7 @@
 {
   "accentColor": "#0e60a0",
-  "baseFontSize": 16,
-  "textFontFamily": "Inter"
+  "baseFontSize": 18,
+  "textFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
