@@ -18,11 +18,29 @@ A valid question that may asked is why we need to look for alternative weeding a
 
 In the next section, we will present different alternative weeding methods, with a special focus on *robotic solutions*. For each method, we will present its potential benefits and also its shortcomings. 
 ### Weeding Approaches
-Broadly speaking, weeding methods have been usually categorized as such:
+Generally, weeding methods are classified based on their mode of action on the weeds or their method of application. While most of the following methods can be applied "manually", that is, by a human traversing the field and applying the weeding method, it is important to note that manual weeding is mostly inefficient for field crops over large surfaces. Therefore, we will mostly focus on methods that are already (or may still be) automated in one way or another.
 
-- **Manual weeding:** Perhaps the oldest method in this list. It consists of humans traversing the field looking for weeds and uprooting them manually or with the help of some tool.
-- **Biological weeding:** This method consists of using biological entities, such as animals, to get rid of weeds. A good example is the deployment of some insects that will attack only a specific species of plant (the weed) without harming the cultivated species. Alternatively, the deployment of mammals such as goats or sheep in the field that would only eat the weeds without attacking the cultivated crop. An important problem with these methods is the difficulty associated to controlling the behavior of the deployed animals: it is not easy to tell a goat to only eat the weeds without eating the nearby potatoes.
-- 
+#### Biological Weeding
+This method consists of using biological agents, such as animals, to get rid of weeds. A good example is the deployment of insects that will attack only a specific species of plant (the weeds) without harming the cultivated species REFRX. Alternatively, the deployment of mammals such as goats or sheep that would only eat the weeds without attacking the cultivated crop REFRX. An important problem with these methods is the difficulty associated to controlling the behavior of the deployed animals: it is not easy to tell a goat to eat *only* the weeds without eating touching the nearby potatoes.
+
+#### Mechanical Weeding
+Mechanical weed control consists of the usage of mechanical tools to directly damage the weeds. In general, there are three ways that mechanical weeding acts on the weeds: (1) cutting, (2) uprooting, and (3) burying. Cutting targets the weed tissues, particularly in young seedlings, which would lead to the exhaustion of the plant's reserves and their eventual death. Uprooting consist of either exposing the weed's roots to the external environment, or completely detaching the weed from the soil. This would lead to their withering and eventual death. Burying is generally used only in certain types of crops, such as rice fields, whereby the field is puddled before the plantation of rice which would lead to burying most of the weeds.
+
+##### Pros
+The most important benefit of mechanical weeding is perhaps its "organic-friendly" nature. Indeed, mechanical approaches may be considered the direct extension of manual weeding through the usage of tools.
+
+Furthermore, an important positive aspect of mechanical weeding, in the words of Greenfield Robotics' founder Clint Brauer, is that "a weed cannot develop resistance to a blade" REFRX. Mechanical approaches are "aggressive."
+
+##### Cons
+While looking attractive, mechanical weeding suffers from a number of shortcomings:
+
+1. The effectiveness of mechanical approaches is highly dependent on weather and soil conditions, as well as the time of operation REFRX. Moreover, some mechanical approaches may have counter-productive results. For example, soil tilling methods that aim at destroying inter-row weeds may actually lead to burying their seeds in the soil thus leading to their re-emergence later on. Indeed, the "cleanliness" of mechanical approaches (in the sense of how completely they eradicate any trace of the weed) is perhaps their greatest shortcoming.
+2. On the long term, mechanical weeding can have negative effects on the health of the soil as some mechanical operations such as tilling and uprooting can "tire" the soil. 
+3. Generally, mechanical weeding can be useful for inter-row weeds. These are the weeds that grow between the rows of crops and are thus clearly separated by them, which makes mechanical operations easier. However, for intra-row weeds, which are growing among the crops, mechanical weeding is generally inefficient REFRX. Nonetheless, certain innovative mechanical weeding approaches have been developed to deal with some of these situations REFRX.
+4. In continuation of the previous point, attacking the intra-row weeds that are close to the cultivated crops can actually damage the latter. For example, uprooting weed roots may cause damage to the crops' roots too, or cutting the weeds with sharp tools may also damage crop tissues.
+5. Possibly a negative point is the large diversity of mechanical tools available for different modes of actions on different weeds. Unlike chemical approaches, where the same physical system can be used to spray different types of chemical products that are adapted to the weeds at hand (or better, that have general-purpose impact), it seems that different types of weeds, planting patterns and types of soil require different mechanical tools.
+
+
  
 
 
