@@ -11,3 +11,6 @@
 - **Carbon Robotics (US):** *Laser Weeder*, precision laser weeding using computer vision and deep learning. Already at version 2 of the system.
 	- https://carbonrobotics.com/laserweeder-g2
 	- Tractor advances (rather slowly) when weeds are still in early stage. Cameras and images detect the weeds which are beamed by a laser which leads to them taking fire then disintegrating over the following days. 
+- **Verdant Robotics (US):** *SharpShooter*, Taking "precision spraying" to a new level really by creating a system that actually aims at the weed detected and sprays only on it instead of spraying on a large radius.
+	- https://www.verdantrobotics.com/
+	- 

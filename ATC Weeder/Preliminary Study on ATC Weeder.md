@@ -40,6 +40,37 @@ While looking attractive, mechanical weeding suffers from a number of shortcomin
 4. In continuation of the previous point, attacking the intra-row weeds that are close to the cultivated crops can actually damage the latter. For example, uprooting weed roots may cause damage to the crops' roots too, or cutting the weeds with sharp tools may also damage crop tissues.
 5. Possibly a negative point is the large diversity of mechanical tools available for different modes of actions on different weeds. Unlike chemical approaches, where the same physical system can be used to spray different types of chemical products that are adapted to the weeds at hand (or better, that have general-purpose impact), it seems that different types of weeds, planting patterns and types of soil require different mechanical tools.
 
+### Thermal Weeding
+Thermal weeding are used in a number of different agrosystems, particularly in organic agriculture. There are multiple thermal weeding approaches that we will present in more detail shortly. All of these methods have basically the same mode of action which consists of **causing a severe heat wave to the weeds** causing **important damage to the plant tissues via membrane rupture**. This disrupts the physiological functioning of the plants by protein denaturation and enzyme deactivation, which in term would lead to the death of the weeds REFRX. 
+
+We will now discuss the most commonly used thermal weeding approaches.
+
+##### Flame Weeding
+Flaming is the most common method of thermal weeding. It is important to clarify a widely held misconception: *flaming does not aim at igniting the plant tissues* (that is, turning them to ashes), but actually to expose them to an intense heat wave which would cause the rupturing of plant cells REFRX. As such, although exposure to flames may result in igniting certain plants, it is not really the primary aim of the method. 
+
+A previous study have shown that a temperature exposure between **50 degrees Celsius for around 650 ms to 95 degrees Celsius for around 130 ms is necessary to kill weeds** REFRX. For flaming to be effective, it should be applied in such a way as to **raise the plant tissue temperature to at least 70 to 100 degrees Celsius** REFRX. 
+
+The effectiveness of flame weeding depends on a number of factors, in particular:
+- **Weed species:** certain types of weeds such as grasses have protected growing points and are thus more tolerant to flaming. Weeds that have unprotected growing points and sensitive leaves are more susceptible to flames REFRX.
+- **Growth stage:** younger weeds which have smaller leaves and less biomass are easier to control with flames than bigger weeds which would require higher temperatures and longer exposure times. 
+- **Moisture levels:** water act as an insulation for the leaves, which reduces the effectiveness of flaming. Flame weeding is thus more easily applied under relatively dry conditions. **However, it is important to take the relatively important risk of fires when applying this weeding approach.** "For example, flame methods are not considered as a reliable option in countries like Australia, as these provide unacceptable fire risks and are unsuitable for urban conditions" REFRX. 
+
+The creation of the intense flame required for weeding is usually done using **liquefied petroleum gas (LPG)**, or **propane**, although **hydrogen** is being studied as a more renewable alternative REFRX.
+
+**Pros**
+In comparison to other weeding approaches, in particular chemical herbicides, flaming can present some advantages:
+1. Unlike chemicals, **it does not have any residual impact on the plants, soil, air (questionable) and water**. In fact, the plant "residuals" caused after the disintegration of the weeds can even be useful as rich nutrients to the soil.
+2. When applied on weeds that are not very close to the plants, we can say that it has **no drift hazard**, and in all cases **does not present the risk of carryover from one season to the next** (as is the case with chemical herbicides).
+3. In comparison to mechanical approaches, it results in **much less soil disturbance**, which is important to maintain the health of the soil. 
+4. As an indirect result, flaming can actually contribute to controlling pathogens and insects REFRX.
+
+**Cons**
+On the other hand, flaming presents important disadvantages mostly in terms of safety and the environment:
+- **Cost:** Flame weeders are generally more costly than herbicide sprayers.
+- **Low application speed:** Due to the exposure time required for the flames to increase the heat of the weed's tissue up to a lethal temperature, the application speed is relatively low compared to sprayers. Furthermore, this speed is greatly influenced by other factors such as biomass, the weed species and the moisture level, as we have discussed previously.
+- **Lack of crop selectivity:** This can be an advantage or a disadvantage. Unlike chemical approaches, whereby the chemical product can be customized to each weed and be harmless to plants, flames are not really selective. They can just as easily kill our cultivated crops as the weeds they are targeting. To be used with caution.
+- **Safety issues:** The danger for fire propagation is always present when using flames. This is particularly dangerous in dry lands. **Moreover, the integration of flames on an autonomous robot that will work without supervision can greatly increase the risk of fire accidents.**
+- **Not very environment-friendly:** The combustion of propane gas or diesel fuel required for producing the flames releases greenhouse gas CO2 in the atmosphere. It is estimated that **propane used at 60 kg per hectare produced 189 kg of CO2 per hectare** REFRX Ulloa 2011. These high energy requirements and the release of CO2 can be seen as important disadvantages.
 
  
 
