@@ -13,4 +13,6 @@
 	- Tractor advances (rather slowly) when weeds are still in early stage. Cameras and images detect the weeds which are beamed by a laser which leads to them taking fire then disintegrating over the following days. 
 - **Verdant Robotics (US):** *SharpShooter*, Taking "precision spraying" to a new level really by creating a system that actually aims at the weed detected and sprays only on it instead of spraying on a large radius.
 	- https://www.verdantrobotics.com/
-	- 
+- **Aigen Robotics (US):** *Element*, A solar-powered acrobatic robot that detects weeds using computer vision and kills them by hoeing them at the right moment.
+	- https://www.aigen.io/
+	- Featured on France 24 English: https://www.youtube.com/watch?v=RkNuFnuSca0&ab_channel=FRANCE24English

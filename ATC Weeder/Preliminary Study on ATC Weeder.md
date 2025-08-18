@@ -41,7 +41,7 @@ While looking attractive, mechanical weeding suffers from a number of shortcomin
 5. Possibly a negative point is the large diversity of mechanical tools available for different modes of actions on different weeds. Unlike chemical approaches, where the same physical system can be used to spray different types of chemical products that are adapted to the weeds at hand (or better, that have general-purpose impact), it seems that different types of weeds, planting patterns and types of soil require different mechanical tools.
 
 ### Thermal Weeding
-Thermal weeding are used in a number of different agrosystems, particularly in organic agriculture. There are multiple thermal weeding approaches that we will present in more detail shortly. All of these methods have basically the same mode of action which consists of **causing a severe heat wave to the weeds** causing **important damage to the plant tissues via membrane rupture**. This disrupts the physiological functioning of the plants by protein denaturation and enzyme deactivation, which in term would lead to the death of the weeds REFRX. 
+Thermal weeding are used in a number of different agrosystems, particularly in organic agriculture. There are multiple thermal weeding approaches that we will present in more detail shortly. All of these methods have basically the same mode of action which consists of **causing a severe heat wave to the weeds** which would result in an **important damage to the plant tissues via membrane rupture**. This disrupts the physiological functioning of the plants by protein denaturation and enzyme deactivation, which in term would lead to the death of the weeds REFRX. 
 
 We will now discuss the most commonly used thermal weeding approaches.
 
@@ -72,7 +72,39 @@ On the other hand, flaming presents important disadvantages mostly in terms of s
 - **Safety issues:** The danger for fire propagation is always present when using flames. This is particularly dangerous in dry lands. **Moreover, the integration of flames on an autonomous robot that will work without supervision can greatly increase the risk of fire accidents.**
 - **Not very environment-friendly:** The combustion of propane gas or diesel fuel required for producing the flames releases greenhouse gas CO2 in the atmosphere. It is estimated that **propane used at 60 kg per hectare produced 189 kg of CO2 per hectare** REFRX Ulloa 2011. These high energy requirements and the release of CO2 can be seen as important disadvantages.
 
- 
+#### Hot Water Weeding
+Another thermal weeding approach, which is also based on the idea of thermally shocking the weeds in order to cause damage to their tissues is *hot water weeding.* "Hot water melts the membrane cuticle of the plant leaves and breaks down the plant cell structures, which makes the plant unable to retain moisture and dehydrate within few hours or days" REFRX. 
+
+Generally, this technique has been used to treat weeds in cracks and driveways. So far, it is still unclear how effective it can be on large field crops. In all cases, it has shown its effectiveness in controlling both annual and perennial weeds, both germinating and already mature. Indeed, in some studies, it has shown results comparable to glyphosate treatment REFRX. It is important to note that most of the weeds actually regrow after non-chemical treatment. As such, multiple consecutive treatments are often required (mostly between 3 and 5) during the growing season to keep weeds under control REFRX Rask et al. 2013. Hot water treatment seems to be more effective on planophile leaved weeds rather than erectophile weeds (such as grass). 
+
+Multiple factors influence the effectiveness of this method. These include the weed development stage, exposure time, droplets size, wetting agent, water temperature and daytime variation in thermal sensitivity and water flow. Other environmental factors such as air temperature, drought, and rainfall are hypothesized to also influence the effectiveness of such methods REFRX.
+
+**Pros**
+Hot water shares the same positive points as the previously presented methods in that it does not contaminate the underground water, soil and air like chemical spraying. Furthermore, it eliminates the risks of potential exposure of human and wildlife to pesticide residues. 
+
+In addition, unlike flame weeding, hot water approaches do not present the risks of fire hazard and are generally safe.
+
+**Cons**
+Hot water weeding presents multiple negative points that make it really unattractive as a potential method for large field crops:
+1. Hot water shares one of the main negative points as chemical herbicides: it is a broad-spectrum biocide. This means that it is a general killer of living things. As such, it does not only target the weeds, but may also kill the field crops in case of exposure, or other beneficial soil organisms like fungi and bacteria that contribute positively to crop growth REFRX.
+2. A crucial point to take into consideration is that hot water weeding is not cost-effective nor energy-efficient for large-scale applications, particularly in comparison to other thermal methods such as propane flaming or infrared heat REFRX. 
+
+#### Hot Foam Weeding
+A more effective upgrade to hot water weeding is hot foam.  It is an approach that was first patented in 1995 and consists of adding biodegradable foaming agents to hot water REFRX Rajammanan 1996 patent. The resulting foam has little impact on the environment and human health. 
+
+"The foam insulates the weeds from the surrounding air and increases the energy transfer to the plants, thus lowering the dose of hot water required and increasing efficiency" REFRX Martelloni 2021 Cederlund 2016. 
+
+This approach has been used for treating weeds on hard surfaces, such as streets, pavements and railways. There is very little research showing the usage of hot foam weeding in open fields, with the exception of two new articles REFRX (appeared 2024-2025) by a research group in Greece who studied the application of hot foam in olive groves REFRX, vineyards, spinach and onion fields REFRX. In the case of weeding between olive trees, hot foam proved to be as effective as glyphosate (!) REFRX. These results imply that hot foam can be an eco-friendly alternative to chemical herbicides in some conditions.
+
+In terms of energy efficiency, REFRX have shown that hot foam requires 2.3 to 2.75 less water and energy to achieve the same level of weed control as hot water.
+
+**Pros**
+Hot foam appears to be an effective alternative to chemical herbicides. It shares the positive points of hot water weeding, with the addition of being more cost and energy effective. Moreover, it has demonstrated important performance in a number of field applications -- although this is yet to be studied in more details. 
+
+In addition, hot foam can be coupled with mechanical weeding to achieve even better weed control performances.
+
+**Cons**
+While providing improvements to some of the shortcomings of hot water weeding, hot foam still suffers from the need for high energy required for heating the water REFRX.
 
 
 
