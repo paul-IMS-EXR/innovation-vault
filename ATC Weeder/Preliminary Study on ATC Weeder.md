@@ -106,7 +106,41 @@ In addition, hot foam can be coupled with mechanical weeding to achieve even bet
 **Cons**
 While providing improvements to some of the shortcomings of hot water weeding, hot foam still suffers from the need for high energy required for heating the water REFRX.
 
+### Laser Weeding
+One of the most technologically advanced weeding approaches is laser weeding. This approach relies on the emission of concentrated high-energy laser ("light amplification by stimulated emission of radiation") beams. Depending on the laser type, this high energy is either absorbed by the plant surface -- which causes direct damage to the plant's tissues -- or can traverse its epidermis and reach the water stored in the plant which would cause its heating and its eventual withering and death REFRX. This mode of action has led some researchers to classify laser weeding approaches as thermal methods. However, we prefer to separate them from the previous methods because they present some distinct aspects that deserve to be emphasized.
+
+#### Types of Lasers
+There are three main categories of lasers used for a large variety of applications from sensing to cutting. The two main factors that distinguish them are the active medium and the range of emission wavelengths REFRX.
+
+1. Diode laser: this category of lasers uses a semiconductor stimulated by an electric current as their active medium. They can produce laser beams with wavelengths ranging from ultraviolet (10 nm -- 400 nm) to infrared (700 nm -- 1 mm) radiation.
+2. Fiber laser: these lasers can also be called "solid-state lasers" and use a doped glass as the active medium. They emit laser beams within the visible (400 nm -- 700 nm) and near-infrared (700 nm -- 1400 nm)  light spectrum.
+3. CO2 laser: these types of laser use a mixture of gas (typically nitrogen, helium and CO2) as their active medium. They can emit beams that are in the far-infrared (15 µm -- 1 mm) light spectrum characterized by their higher penetrability.
+
+#### Energy Requirements
+A crucial component in laser weeding is the electrical energy required for stimulating the active medium that would emit the laser beam. While in fixed applications this electric energy is often harnessed from fixed electrical grids relatively easily, it becomes a bit more complicated to manage the required energy supply in mobile applications (such as autonomous tractors or robots). "A pivotal element contributing to the efficiency of field robots in this context is the ability to efficiently utilize the electric energy in batteries or generated onboard the machine through the consumption of other fuels" REFRX. The choice of the laser wavelength thus becomes a crucial decision when designing a laser weeding apparatus. 
+
+It is known that shorter wavelengths have higher energy and thus require higher energy to be emitted. REFRX Kaierle at al., conducted an extensive comparative study of the energy demands of different laser weeding methods on the Amaranthus retroflexes (redroot pigweed) weed species. The found that the overall energy demand was minimized when employing a wavelength of 10.6 µm using a CO2 laser. On the other hand, shorter wavelengths of 1.908 µm, 940 nm, and 532 nm corresponding to solid-state, fiber and diode lasers respectively, demanded much higher doses of energy per weed for effective control (230 J, 237 J, and 1400 J, respectively).
+
+It is important to keep in mind that multiple factors influence the energy requirements to achieve lethal damage on the weed (which would in turn influence the choice of the wavelength and the laser technology to be used) REFRX Marx et al. Such factors are (1) weed species, (2) plant growth stage, (3) laser spot position and its area, (4) the applied laser energy, etc. As expected, small weeds (particularly at early growth stages) are much more efficient to treat using laser approaches as they require much less energy. 
+
+**Pros**
+Laser weeding shares many of the positive points presented for the other methods, while proposing new advantages:
+1. High precision: unlike previous methods, like mechanical weeding or thermal methods, laser weeding provides very high precision of application -- even more so than precision chemical spraying. Even though precision spraying systems, such as 3S, are becoming more and more precise, they still suffer from typical physical constraints such as wind drift or a relatively large spraying radius, which means that some chemical deposits will inevitably fall on field crops and the soil in all cases. Laser beams, however, with their small concentrated spot area can be guided with high precision to attack only the required points for killing the weeds.
+2. Minimal impact on soil health: unlike chemical approaches, which pollute the soil, and mechanical methods, which tire the soil, laser weeding has very minimal impact on the soil condition. While it may result in the heating of small areas of the soil through exposure, this heating is often not high nor long enough to cause real damage to the organisms living in it REFRX.
+3. Lower energy requirements: laser weeding may need, in certain applications, less energy than mechanical weeding and surely than flaming. This gain in energy efficiency is particularly due to the precision gain discussed in point 1. previously: the laser can be guided to be activated only where it really needs to be REFRX Kaierle. In all cases, chemical weeding still seems to be the champion in terms of energy requirements.
+
+**Cons**
+We may be fascinated by laser weeding and its big potential. However, it still presents important shortcomings:
+1. Fire hazard: the high energy generated by the lasers can lead to heat production when in contact with surfaces. "This heat can pose a fire hazard, particularly in fields containing dry materials like straw, leaves, or other organic matter" REFRX. This means that laser weeding problems require continuous surveillance -- which can be problematic when we are trying to develop a fully-autonomous weeding system.
+2. Potential health hazard to humans and animals: "exposure to laser light can cause irreversible damage, including blindness" REFRX. Indeed, visible and near-infrared lasers can be a serious threat to the retina, while ultraviolet and far-infrared spectrum ranges can harm the cornea or lens. As such, safety measures should be particularly taken into consideration when developing and deploying such systems. Furthermore, "precautions must be taken to prevent beams of laser from escaping the working area due to reflections from stones, sand, or other reflective items." This can be done using screens and curtains such as the one we can see on Carbon Robotics systems FIGREFRX.
+3. Dwell time and weeding speed: it is often the case that a laser needs to be projected for a relatively long time (between 0.5 to 1.5 seconds) for it to really harm a plant. This means that the tractor system using a laser weeding system cannot move as fast as a system spraying chemicals (reported speeds between 3 and 6 km/h, in comparison to 6 to 40 km/h for chemical sprayers). 
+4. Higher technical cost: I would like to clarify that this point is due to my own observation and may not be true. In all cases, it seems that developing -- and especially optimizing -- laser systems requires much higher technical knowledge than other approaches such as mechanical or thermal approaches.
 
 
 
 
+
+
+
+
+ 
