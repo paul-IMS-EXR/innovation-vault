@@ -137,6 +137,7 @@ We may be fascinated by laser weeding and its big potential. However, it still p
 4. Higher technical cost: I would like to clarify that this point is due to my own observation and may not be true. In all cases, it seems that developing -- and especially optimizing -- laser systems requires much higher technical knowledge than other approaches such as mechanical or thermal approaches.
 
 
+### Electrical Weeding
 
 
 

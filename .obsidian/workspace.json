@@ -190,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,8 +202,8 @@
   "active": "caefd0f244a6fc60",
   "lastOpenFiles": [
     "ATC Weeder/Commercial Websites.md",
-    "ATC Weeder/General Notes.md",
     "ATC Weeder/Preliminary Study on ATC Weeder.md",
+    "ATC Weeder/General Notes.md",
     "ATC Weeder/Notes on Literature Review.md",
     "ATC Weeder/Preliminary Study on \"ATC Weeder\".md",
     "ATC Weeder/Why ATC?.md",
